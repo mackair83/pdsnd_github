@@ -7,7 +7,7 @@
 Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+compare the system of bikes usage between three large cities: Chicago, New York City, and Washington
 
 ### Files used
 Include the files used
