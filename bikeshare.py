@@ -24,7 +24,7 @@ def get_filters():
                 break
         else:
                 print('That is not an appropriate selection. Please try again:')
-                continue
+                
 
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
